@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator02</string>
+    <string name="operation">Select Operation</string>
+    <string name="FirstInput">Input 1</string>
+    <string name="SecondInput">Input 2</string>
+    <string name="WelcomeMessage">Welcome to calculator</string>
+    <string name="spacer">---------------------</string>
+    <string name="calculate">Calculate</string>
+    <string name="opPrompt">SelectOperation</string>
+    <string-array name="Operations">
+        <item>Multiply</item>
+        <item>Divide</item>
+        <item>Add</item>
+        <item>Subtract</item>
+    </string-array>
+    <string name="answer">Answer:</string>
+    <string name="textsize">16sp</string>
+</resources>
